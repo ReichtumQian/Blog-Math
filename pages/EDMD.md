@@ -26,6 +26,26 @@
   
   where $G^+$ is the pseudo-inverse of $G$.
 -
+- ## Validation
+- **Validation**: Pick any $\mathbf{x}(n), \mathbf{x}(n+1)$, and check
+
+$$ K \left[
+  \begin{array}{c}
+    \psi_1(\mathbf{x}(n))\\
+    \psi_2(\mathbf{x}(n))\\
+    \vdots\\
+    \psi_M(\mathbf{x}(n))
+  \end{array}
+\right] = \left[
+  \begin{array}{c}
+    \psi_1(\mathbf{x}(n+1))\\
+    \psi_2(\mathbf{x}(n+1))\\
+    \vdots\\
+    \psi_M(\mathbf{x}(n+1))
+  \end{array}
+\right]$$
+
+-
 - ## References
 - [1] A Data–Driven Approximation of the Koopman Operator: Extending Dynamic Mode Decomposition
 - [2] Qianxiao Li, Felix Dietrich, Erik M Bollt, Ioannis G Kevrekidis. Extended dynamic mode decomposition with dictionary learning: A data-driven adaptive spectral decomposition of the Koopman operator
