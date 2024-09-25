@@ -1,5 +1,6 @@
+- Preliminaries: [[Koopman Operator]]
 -
--
+- Extended dynamic mode decomposition (EDMD) algorithm is a method to estimate a finite-dimensional representation of the Koopman operator $\mathcal{K}$.
 -
 -
 - ## Algorithm
