@@ -1,4 +1,4 @@
-tags:: numerical solution of PDE
+tags:: Numerical Solution of PDE
 
 -
 - **Problem**: Given $T > 0$, $\mathbf{f} : \mathbb{R}^N \times [0, T] \rightarrow \mathbb{R}^N$, and $\mathbf{u}_0 \in \mathbb{R}^N$, the _initial value problem_ is to find $\mathbf{u}(t) \in \mathcal{C}^1$ such that

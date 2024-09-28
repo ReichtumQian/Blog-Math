@@ -1,4 +1,4 @@
-tags:: linear algebra
+tags:: Linear Algebra
 
 -
 -

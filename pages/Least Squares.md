@@ -1,4 +1,4 @@
-tags:: linear algebra, numerical linear algebra
+tags:: Linear Algebra, Numerical Linear Algebra
 
 -
 - **Least Squares Problem**: Given matrix $A \in \mathbb{R}^{m \times n}$ and $b \in \mathbb{R}^m$, find $x \in \mathbb{R}^n$ such that

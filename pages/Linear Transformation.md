@@ -1,4 +1,4 @@
-tags:: linear algebra
+tags:: Linear Algebra
 
 -
 - **Definition**: Assume $D$ is a linear space on the field $\mathbb{P}$, linear map $\mathcal{A}: V \rightarrow V$ is called a _linear transformation_ in $V$.
