@@ -1,1 +1,6 @@
 -
+- ## Categories
+- Algebra: [[Linear Algebra]]
+- Analysis:
+- Scientific Computing: [[Numerical Linear Algebra]] ,[[Numerical Solution of PDE]]
+-
