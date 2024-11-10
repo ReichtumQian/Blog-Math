@@ -16,4 +16,11 @@ tags:: Optimal Control
   $$ \inf \limits_{\theta} J[\theta] = \int_{t_0}^{t_1} L(t, x(t), \theta(t))\mathrm{d} t + \Phi (t_1, x(t_1)), $$
   
   such that $\dot{x}(t) = f(t, x(t), \theta(t))$, where $t \in [t_0, t_1]$ and $x(t_0) = x_0$.
+- The case where $\Phi = 0$ is called **Lagrange problem**, and the case *L=0* is called a **Mayer problem**.
+- **See Also**:
+- ## Solution
+- [[Pontryagin's Maximum Principle]]
+-
+-
+-
 -
