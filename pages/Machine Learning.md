@@ -1,0 +1,10 @@
+-
+-
+-
+-
+- ## Train the Network
+-
+- [[Batch Training]]
+- [[Momentum Training]]
+-
+-

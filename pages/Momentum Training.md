@@ -1,0 +1,4 @@
+-
+- In the real world, a ball falling from high positions won't stops immediately on a small platform. This implies that momentums can help the learning process escape the saddle points.
+-
+-

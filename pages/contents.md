@@ -4,4 +4,5 @@
 - Analysis:
 - Scientific Computing: [[Numerical Linear Algebra]] ,[[Numerical Solution of PDE]]
 - Other: [[Optimal Control]]
+- Artificial Intelligence: [[Machine Learning]]
 -

@@ -1,0 +1,10 @@
+-
+- When we train the neural network, a common strategy is to split the dataset into several **Batches**. The iteration over the entire dataset is called an **Epoch**. If the batches for each epoch are different, we call this dataset is **Shuffled**.
+-
+- ## Why Batch?
+- **Speed**: Large batches can take advantage of parallel computing, thus being faster. Smaller batches tend to be slower.
+- **Optimization**: The smaller batches' optimization is usually better than the larger batches.
+- **Over Fitting**: Smaller batches tend to over fit the data.
+- **Testing**: Smaller batches tend to perform better than the larger batches.
+-
+-
